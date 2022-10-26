@@ -18,4 +18,4 @@
   </ul>
   
   ### Target:
-  <ul><li>aluguel - valor do aluguel do imóvel em R$</li></ul>
+  <ul><li>aluguel - valor do aluguel do imóvel em R$.</li></ul>
