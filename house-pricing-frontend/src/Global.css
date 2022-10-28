@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input{
+    @apply  max-w-2xl h-12 text-2xl border-b-[1px] border-[#A5A5A5] text-black
+}
+label{
+    @apply flex flex-col text-2xl text-[#999999]
+}
